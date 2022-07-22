@@ -11,6 +11,7 @@ Welcome to sphinx-demo's documentation!
    :caption: Contents:
    
    api
+   api2
 
 
 Indices and tables
